@@ -2,7 +2,7 @@ import { Directive, Renderer2, ElementRef, Input, HostBinding } from '@angular/c
 import { Observable, Subscription } from 'rxjs/Rx';
 
 @Directive({
-  selector: '[appAdvanceParallaxChild]'
+  selector: '[AdvanceParallaxChild]'
 })
 export class AdvanceParallaxChildDirective {
   private _nativeElement:any;

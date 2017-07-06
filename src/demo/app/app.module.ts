@@ -5,7 +5,7 @@ import { NgEssentialsModule } from 'ng-essentials';
 import { AppComponent }  from './app.component';
 
 @NgModule({
-  imports:      [ BrowserModule],
+  imports:      [ BrowserModule, NgEssentialsModule],
   declarations: [ AppComponent ],
   bootstrap:    [ AppComponent ]
 })

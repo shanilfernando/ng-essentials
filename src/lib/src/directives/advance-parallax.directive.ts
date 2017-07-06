@@ -3,7 +3,7 @@ import { AdvanceParallaxChildDirective } from './advance-parallax-child.directiv
 import { Observable, Subscription } from 'rxjs/Rx';
 
 @Directive({
-  selector: '[appAdvanceParallax]'
+  selector: '[AdvanceParallax]'
 })
 export class AdvanceParallaxDirective {
   private nativeElement: Node;

@@ -1,6 +1,6 @@
 {
   "name": "ng-essentials",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Library QuickStart package.json from the documentation, supplemented with testing support",
   "main": "./bundles/ng-essentials.umd.js",
   "module": "./ng-essentials.es5.js",
