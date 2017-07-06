@@ -6,9 +6,15 @@
   "module": "./ng-essentials.es5.js",
   "es2015": "./ng-essentials.js",
   "typings": "./ng-essentials.d.ts",
-  "author": "",
+  "author": "SHANIL FERNANDO (http://shanilfernando.gitlab.io)",
   "license": "MIT",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shanilfernando/ng-essentials"
+  },
+  "bugs": {
+    "url": "https://github.com/shanilfernando/ng-essentials/issues"
+  },
   "engines": {
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
@@ -71,5 +77,11 @@
     "tslint": "^4.4.2",
     "typescript": "~2.3.0",
     "zone.js": "^0.8.4"
-  }
+  },
+  "keywords": [
+    "Angular",
+    "ng-essentials",
+    "Smooth scroll",
+    "Parallax"
+  ]
 }
