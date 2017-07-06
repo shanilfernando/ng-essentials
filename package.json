@@ -1,7 +1,7 @@
 {
   "name": "ng-essentials",
   "version": "0.0.1",
-  "description": "Library QuickStart package.json from the documentation, supplemented with testing support",
+  "description": "Essential Angular components, directives, services and pips library to develop an awesome Angular web applicaton.",
   "main": "./bundles/ng-essentials.umd.js",
   "module": "./ng-essentials.es5.js",
   "es2015": "./ng-essentials.js",
